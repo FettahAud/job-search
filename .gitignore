@@ -3,6 +3,10 @@ node_modules
 /dist
 
 
+# test files 
+playground.js
+*.test.js
+
 # local env files
 .env.local
 .env.*.local
